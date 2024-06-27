@@ -21,6 +21,7 @@ body{
     width: 100vw;
     height: 100vh;
     background-image: url(../img/windows-10.gif);
+    background-color: #000000;
     background-size: cover;
     background-repeat: no-repeat;
     color: #fff;
@@ -148,5 +149,5 @@ a{
 
 .marcad{
     
-    color: white;
+    color: rgb(255, 255, 255);
 }
